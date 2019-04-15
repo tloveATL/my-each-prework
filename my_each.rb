@@ -6,5 +6,3 @@ def my_each(collection)
 end
 
 my_each(collection) { |num| puts num }
-
-end
