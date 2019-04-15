@@ -1,3 +1,6 @@
-def my_each # put argument(s) here
-  # code here
+def my_each(collection)
+  collection = []
+  while collection.count > 0 
+    
+  
 end
