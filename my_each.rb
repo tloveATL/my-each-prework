@@ -3,6 +3,7 @@ def my_each(collection)
   i = 0
   while collection.count > i
     yield(collection[i])
+    
   end
   collection
 end
