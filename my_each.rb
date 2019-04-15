@@ -1,5 +1,5 @@
 def my_each(collection)
-  collection = []
+  collection = [1, 2, 3, 4]
   while collection.count > 0 
     yield(collection)
   end
