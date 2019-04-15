@@ -4,3 +4,5 @@ def my_each(collection)
     yield(collection)
   end
 end
+
+my_each
