@@ -5,4 +5,4 @@ def my_each(collection)
   end
 end
 
-my_each(collection)
+my_each(collection) { |
